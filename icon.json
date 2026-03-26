@@ -1,146 +1,150 @@
 [
-  {
-    "app": "netflix",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/netflix.png"
-  },
-  {
-    "app": "meitu",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/meitu.png"
-  },
-  {
-    "app": "capcut",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/capcut.png"
-  },
-  {
-    "app": "gemini ai",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/gemini_ai.png"
-  },
-  {
-    "app": "vidio",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/vidio.png"
-  },
-  {
-    "app": "hbo max",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/hbo_max.png"
-  },
-  {
-    "app": "rcti plus & vision plus",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/rcti_plus___vision_plus.png"
-  },
-  {
-    "app": "blackbox ai",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/blackbox_ai.png"
-  },
-  {
-    "app": "perplexity ai",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/perplexity_ai.png"
-  },
-  {
-    "app": "spotify premium",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/spotify_premium.png"
-  },
-  {
-    "app": "youku",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/youku.png"
-  },
-  {
-    "app": "remini pro",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/remini_pro.png"
-  },
-  {
-    "app": "fizzo novel",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/fizzo_novel.png"
-  },
-  {
-    "app": "viu",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/viu.png"
-  },
-  {
-    "app": "crunchyroll",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/crunchyroll.png"
-  },
-  {
-    "app": "chatgpt",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/chatgpt.png"
-  },
-  {
-    "app": "picsart",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/picsart.png"
-  },
-  {
-    "app": "wink",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/wink.png"
-  },
-  {
-    "app": "gsuite workspace",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/gsuite_workspace.png"
-  },
-  {
-    "app": "wetv",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/wetv.png"
-  },
-  {
-    "app": "disney+ hotstar",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/disney__hotstar.png"
-  },
-  {
-    "app": "camscanner",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/camscanner.png"
-  },
-  {
-    "app": "surfshark vpn",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/surfshark_vpn.png"
-  },
-  {
-    "app": "youtube",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/youtube.png"
-  },
-  {
-    "app": "loklok",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/loklok.png"
-  },
-  {
-    "app": "microsoft 365",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/microsoft_365.png"
-  },
-  {
-    "app": "hidemyass vpn",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/hidemyass_vpn.png"
-  },
-  {
-    "app": "bstation",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/bstation.png"
-  },
-  {
-    "app": "zoom meetings pro",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/zoom_meetings_pro.png"
-  },
-  {
-    "app": "iqiyi",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/iqiyi.png"
-  },
-  {
-    "app": "alight motion",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/alight_motion.png"
-  },
-  {
-    "app": "duolingo",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/duolingo.png"
-  },
-  {
-    "app": "express vpn",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/express_vpn.png"
-  },
-  {
-    "app": "prime video",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/prime_video.png"
-  },
-  {
-    "app": "apple music",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/apple_music.png"
-  },
-  {
-    "app": "scribd",
-    "icon": "https://raw.githubusercontent.com/codegood21/icon2134/main/icons/scribd.png"
-  }
+    {
+        "app": "netflix",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/netflix.png"
+    },
+    {
+        "app": "meitu",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/meitu.png"
+    },
+    {
+        "app": "capcut",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/capcut.png"
+    },
+    {
+        "app": "gemini ai",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/gemini_ai.png"
+    },
+    {
+        "app": "vidio",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/vidio.png"
+    },
+    {
+        "app": "hbo max",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/hbo_max.png"
+    },
+    {
+        "app": "rcti plus & vision plus",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/rcti_plus___vision_plus.png"
+    },
+    {
+        "app": "blackbox ai",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/blackbox_ai.png"
+    },
+    {
+        "app": "perplexity ai",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/perplexity_ai.png"
+    },
+    {
+        "app": "spotify premium",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/spotify_premium.png"
+    },
+    {
+        "app": "youku",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/youku.png"
+    },
+    {
+        "app": "remini pro",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/remini_pro.png"
+    },
+    {
+        "app": "fizzo novel",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/fizzo_novel.png"
+    },
+    {
+        "app": "viu",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/viu.png"
+    },
+    {
+        "app": "crunchyroll",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/crunchyroll.png"
+    },
+    {
+        "app": "chatgpt",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/chatgpt.png"
+    },
+    {
+        "app": "picsart",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/picsart.png"
+    },
+    {
+        "app": "wink",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/wink.png"
+    },
+    {
+        "app": "gsuite workspace",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/gsuite_workspace.png"
+    },
+    {
+        "app": "wetv",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/wetv.png"
+    },
+    {
+        "app": "disney+ hotstar",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/disney__hotstar.png"
+    },
+    {
+        "app": "camscanner",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/camscanner.png"
+    },
+    {
+        "app": "surfshark vpn",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/surfshark_vpn.png"
+    },
+    {
+        "app": "youtube",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/youtube.png"
+    },
+    {
+        "app": "loklok",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/loklok.png"
+    },
+    {
+        "app": "microsoft 365",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/microsoft_365.png"
+    },
+    {
+        "app": "hidemyass vpn",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/hidemyass_vpn.png"
+    },
+    {
+        "app": "bstation",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/bstation.png"
+    },
+    {
+        "app": "zoom meetings pro",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/zoom_meetings_pro.png"
+    },
+    {
+        "app": "iqiyi",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/iqiyi.png"
+    },
+    {
+        "app": "alight motion",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/alight_motion.png"
+    },
+    {
+        "app": "duolingo",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/duolingo.png"
+    },
+    {
+        "app": "express vpn",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/express_vpn.png"
+    },
+    {
+        "app": "prime video",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/prime_video.png"
+    },
+    {
+        "app": "apple music",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/apple_music.png"
+    },
+    {
+        "app": "scribd",
+        "icon": "https:\/\/raw.githubusercontent.com\/codegood21\/icon2134\/main\/icons\/scribd.png"
+    },
+    {
+        "app": "canva",
+        "icon": "https:\/\/raw.githubusercontent.com\/bagus-api\/storage\/master\/sjYEW.png"
+    }
 ]
